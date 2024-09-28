@@ -7,6 +7,8 @@ Their problem is that, only 30% of the applicants are getting converted.
 So, a solution is demanded to acquire a conversion rate of 80%.
 In this project we have tried to implement a model based on Logistic regression to achieve the above goal.
 
+**Note:** Original files related to this project are not shared publicly as they are part of my academic assignments.
+
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Installation Instructions](#installation-instructions)
