@@ -7,6 +7,13 @@ Their problem is that, only 30% of the applicants are getting converted.
 So, a solution is demanded to acquire a conversion rate of 80%.
 In this project we have tried to implement a model based on Logistic regression to achieve the above goal.
 
+## Table of Contents
+- [Project Structure](#project-structure)
+- [Installation Instructions](#installation-instructions)
+- [Files Overview](#files-overview)
+- [Steps Followed](#steps-followed)
+- [Conclusion](#conclusion)
+
 ## Details of files given
 
 For this project we have following documents to build and support our case study: -
@@ -29,5 +36,13 @@ This is how we have approached to the solution:
 8.	Deploying on test dataframe
 9.	Evaluating model
 10.	Drawing conclusions from results
+
+## Conclusion and Recommendations
+- Focus should be given to the features having positive as well as high coefficients to enhance target market strategies.
+- Professionals can be engaged for customized marketing material and tailored infomercials.
+-  Optimize communication channels to improve lead engagement impact.
+-  Re-budget to increase spending on Welingak Website as it is the top performer and other such budgeting tactics.
+- Commissions to sales force on conversion of hot leads to customers can improve efficiency
+- Enhance target market to working professionals as they have high conversion rate as well as the readiness to pay resulting from higher financial position of such leads.
 
 This case study is built by a group of three students of a master’s program.
